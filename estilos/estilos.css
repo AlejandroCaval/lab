@@ -1,0 +1,28 @@
+
+header {
+    border: 1px solid black;
+    color: red;
+    width: 100%;
+    padding: 20px;
+  
+}
+
+.clase1 {
+    width: 50%;
+  
+    display: inline;
+    margin-left: 0px;
+}
+
+.clase2 {
+    border: 1px solid black;
+    display: inline;
+    margin-left: 1300px;
+    width: 50%;
+}
+img {
+    
+    text-align: left;
+    width: 200px;
+    display: inline;
+}
