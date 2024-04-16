@@ -1,6 +1,6 @@
 
 header {
-    border: 1px solid black;
+   
     color: red;
     width: 100%;
     padding: 20px;
@@ -15,7 +15,7 @@ header {
 }
 
 .clase2 {
-    border: 1px solid black;
+   
     display: inline;
     margin-left: 1300px;
     width: 50%;
